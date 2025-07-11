@@ -14,6 +14,7 @@
     <modules>
         <module>eureka</module>
         <module>gateway</module>
+        <module>coupon-service</module>
     </modules>
 
     <packaging>pom</packaging>
